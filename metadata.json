@@ -1,0 +1,13 @@
+{
+  "name": "zivtech-nvm",
+  "version": "0.0.1",
+  "author": "zivtech",
+  "summary": "Install and configure nvm for individual users.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/zivtech/puppet-nvm.git",
+  "project_page": "https://github.com/zivtech/puppet-nvm",
+  "issues_url": "https://github.com/zivtech/puppet-nvm/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
